@@ -3,6 +3,9 @@
 ## About Me
 I'm a Full Stack Web Developer passionate about building seamless web applications with proficiency in Front-End and Back-End Technologies.
 
+[![Banner Alt Text]([-page](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8EFhMwd5Nz16RNQUq2Fzcz3f-ruqeOsS2Q&usqp=CAU))
+
+
 - 📧 Email: realsumitkumar@gmail.com
 - 📱 Phone: +91 9650739442
 - 🌍 Location: Delhi, India
