@@ -1,11 +1,9 @@
 # Hi there, I'm Sumit Kumar 👋
 
 ## About Me
+![GIF Alt Text](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+
 I'm a Full Stack Web Developer passionate about building seamless web applications with proficiency in Front-End and Back-End Technologies.
-
-[![Banner Alt Text](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.example.com/landing-page)
-
-
 
 - 📧 Email: realsumitkumar@gmail.com
 - 📱 Phone: +91 9650739442
