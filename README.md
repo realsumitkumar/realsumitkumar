@@ -3,7 +3,8 @@
 ## About Me
 I'm a Full Stack Web Developer passionate about building seamless web applications with proficiency in Front-End and Back-End Technologies.
 
-[![Banner Alt Text]([-page](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8EFhMwd5Nz16RNQUq2Fzcz3f-ruqeOsS2Q&usqp=CAU))
+[![Banner Alt Text](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://www.example.com/landing-page)
+
 
 
 - 📧 Email: realsumitkumar@gmail.com
