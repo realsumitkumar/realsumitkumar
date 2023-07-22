@@ -45,7 +45,7 @@ I'm a Full Stack Web Developer passionate about building seamless web applicatio
 - [To-do app using Python Django](https://github.com/realsumitkumar/todo_app) - To-do list application with user registration, search functionality, and full CRUD operations using Django.
 - [React News App using APIs](https://github.com/realsumitkumar/NewsMan-React) - Fetches latest news from different web sources and helps in staying up to date.
 - [Text Editor](https://github.com/realsumitkumar/textutils) - A tool for making changes to the text using front-end and backend technologies.
-- [iNotebook]([link-to-repo](https://github.com/realsumitkumar/iNoteBook)) - Web app for storing notes on the web using API's with Express as backend.
+- [iNotebook](https://github.com/realsumitkumar/iNoteBook) - Web app for storing notes on the web using API's with Express as backend.
 
 ## Achievements
 - Driven by a commitment to professional growth, I continuously update my skills through online resources.
