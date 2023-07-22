@@ -1,8 +1,6 @@
 # Hi there, I'm Sumit Kumar 👋
 
 ## About Me
-![GIF Alt Text](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
-
 I'm a Full Stack Web Developer passionate about building seamless web applications with proficiency in Front-End and Back-End Technologies.
 
 - 📧 Email: realsumitkumar@gmail.com
@@ -10,7 +8,6 @@ I'm a Full Stack Web Developer passionate about building seamless web applicatio
 - 🌍 Location: Delhi, India
 - 🌐 Website: [realsumitkumar.netlify.app](https://realsumitkumar.netlify.app/)
 - 💼 LinkedIn: [linkedin.com/in/realsumitkumar](https://linkedin.com/in/realsumitkumar)
-- 📂 GitHub: [github.com/realsumitkumar](https://github.com/realsumitkumar)
 
 ## Work Experience
 ### Software Engineer at DoE, Delhi
@@ -43,12 +40,12 @@ I'm a Full Stack Web Developer passionate about building seamless web applicatio
 - Excellent communication skills
 
 ## Projects
-- [Movie Rating Analysis](link-to-repo) - Used data analysis and visualization techniques to analyze Fandango's rating of movies.
-- [Python Flask Blog](link-to-repo) - A blog website with CRUD operations, user authentication, and database integration using Python Flask.
-- [To-do app using Python Django](link-to-repo) - To-do list application with user registration, search functionality, and full CRUD operations using Django.
-- [React News App using APIs](link-to-repo) - Fetches latest news from different web sources and helps in staying up to date.
-- [Text Editor](link-to-repo) - A tool for making changes to the text using front-end and backend technologies.
-- [iNotebook](link-to-repo) - Web app for storing notes on the web using API's with Express as backend.
+- [Movie Rating Analysis](https://github.com/realsumitkumar/FandangoRatingsProject/blob/main/My%20Project.ipynb) - Used data analysis and visualization techniques to analyze Fandango's rating of movies.
+- [Python Flask Blog](https://github.com/realsumitkumar/MyFlaskBlog) - A blog website with CRUD operations, user authentication, and database integration using Python Flask.
+- [To-do app using Python Django](https://github.com/realsumitkumar/todo_app) - To-do list application with user registration, search functionality, and full CRUD operations using Django.
+- [React News App using APIs](https://github.com/realsumitkumar/NewsMan-React) - Fetches latest news from different web sources and helps in staying up to date.
+- [Text Editor](https://github.com/realsumitkumar/textutils) - A tool for making changes to the text using front-end and backend technologies.
+- [iNotebook]([link-to-repo](https://github.com/realsumitkumar/iNoteBook)) - Web app for storing notes on the web using API's with Express as backend.
 
 ## Achievements
 - Driven by a commitment to professional growth, I continuously update my skills through online resources.
