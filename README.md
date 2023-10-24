@@ -18,12 +18,6 @@ I'm a Full Stack Web Developer passionate about building seamless web applicatio
 - Worked with SQL and databases for efficient data storage and retrieval.
 - Performed data analysis using Python, leveraging libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
 
-### Judicial Assistant (Tech.) at DHC, Delhi
-#### 06/2019 - 08/2022
-- Developed web applications, including e-filing systems, RTI portals, and case management software, using React, Python, Flask, and deployment tools.
-- Led a team to ensure smooth functioning of the court's IT systems and provided tailored solutions.
-- Actively participated in code reviews and team meetings to maintain code quality and foster collaboration.
-
 ## Education
 - PGDCA - Post Graduate Diploma in Computer Application, IGNOU, Delhi (2022 - 2023) - 66.80%
 - B.Tech (Computer Science), USICT-GGSIPU Delhi (2014 - 2018) - 65.60%
