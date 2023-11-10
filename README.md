@@ -12,11 +12,12 @@ I'm a Full Stack Web Developer passionate about building seamless web applicatio
 ## Work Experience
 ### Software Engineer at DoE, Delhi
 #### 09/2022 - Current
-- Collaborated with a team to design and implement a responsive and user-friendly web portal for teachers.
-- Maintained and updated existing web applications, ensuring they are secure and up-to-date with the latest technologies and best practices.
-- Utilized Python Flask for back-end development with RESTful API implementation.
-- Worked with SQL and databases for efficient data storage and retrieval.
-- Performed data analysis using Python, leveraging libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
+- Designed and implemented a responsive web portal for educators, streamlining assignment creation, grading, progress tracking, and parent communication. Leveraged React for the front-end, Node.js and Express.js for the back-end, and SQL and PostgreSQL for the database.
+- Developed user interfaces using React best practices, such as component-based architecture and state management. Created reusable, scalable, and maintainable code.
+- Implemented RESTful APIs using Node.js and Express.js, following industry standards to ensure efficient and secure communication between the front-end and the back-end.
+- Managed relational databases using SQL and PostgreSQL, designing, maintaining, and optimizing them for efficient data storage, retrieval, and manipulation.
+- Extracted actionable insights from extensive datasets using strong data analysis skills. Drove informed business decisions that enhanced and optimized the educational platform.
+- Actively monitored security protocols and integrated cutting-edge technologies to fortify the portal against potential vulnerabilities. Regularly updated the application with emerging technologies and industry best practices to ensure a contemporary and user-centric experience.
 
 ## Education
 - PGDCA - Post Graduate Diploma in Computer Application, IGNOU, Delhi (2022 - 2023) - 66.80%
