@@ -12,17 +12,17 @@ Building Responsive Web Applications with Proficiency in Front-End and Back-End 
 ## Work Experience
 ### TGT Computer Science at DoE, Delhi
 #### 09/2022 - Current
--Taught full stack web development covering front-end, back- end, testing and deployment. 
--Built interfaces using CSS frameworks like Tailwind, bootstrap. Created reusable, scalable, and maintainable code.
--Implemented RESTful APIs following industry standards to ensure efficient and secure communication between the front-end and the back-end.
--Conducted comprehensive unit testing using Jest and React
--Testing Library. Code reviews, offering valuable feedback to team members, promoting code quality, and maintaining code consistency.
+- Taught full stack web development covering front-end, back- end, testing and deployment. 
+- Built interfaces using CSS frameworks like Tailwind, bootstrap. Created reusable, scalable, and maintainable code.
+- Implemented RESTful APIs following industry standards to ensure efficient and secure communication between the front-end and the back-end.
+- Conducted comprehensive unit testing using Jest and React
+- Testing Library. Code reviews, offering valuable feedback to team members, promoting code quality, and maintaining code consistency.
 
 ### Judicial Assistant at High Court of Delhi, New-Delhi
 #### 06/2019 - 09/2022 
--Led a team to ensure smooth functioning of the court's IT systems, collaborating with stakeholders to understand requirements and provide tailored solutions. 
--Worked and handled the core complexities in digitizing the court proceedings and IT infrastructure. 
--Worked with Honorable Judges, lawyers, and other officers to understand their requirements and provide solutions to improve their workflow.
+- Led a team to ensure smooth functioning of the court's IT systems, collaborating with stakeholders to understand requirements and provide tailored solutions. 
+- Worked and handled the core complexities in digitizing the court proceedings and IT infrastructure. 
+- Worked with Honorable Judges, lawyers, and other officers to understand their requirements and provide solutions to improve their workflow.
 
 ## Education
 - PGDCA - Post Graduate Diploma in Computer Application, IGNOU, Delhi (2022 - 2023) - 66.80%
