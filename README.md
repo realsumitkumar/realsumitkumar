@@ -1,7 +1,7 @@
 # Hi there, I'm Sumit Kumar 👋
 
 ## About Me
-I'm a Full Stack Web Developer passionate about building seamless web applications with proficiency in Front-End and Back-End Technologies.
+Building Responsive Web Applications with Proficiency in Front-End and Back-End Technologies.
 
 - 📧 Email: realsumitkumar@gmail.com
 - 📱 Phone: +91 9650739442
@@ -10,14 +10,14 @@ I'm a Full Stack Web Developer passionate about building seamless web applicatio
 - 💼 LinkedIn: [linkedin.com/in/realsumitkumar](https://linkedin.com/in/realsumitkumar)
 
 ## Work Experience
-### Software Engineer at DoE, Delhi
+### TGT Computer Science at DoE, Delhi
 #### 09/2022 - Current
-- Designed and implemented a responsive web portal for educators, streamlining assignment creation, grading, progress tracking, and parent communication. Leveraged React for the front-end, Node.js and Express.js for the back-end, and SQL and PostgreSQL for the database.
-- Developed user interfaces using React best practices, such as component-based architecture and state management. Created reusable, scalable, and maintainable code.
-- Implemented RESTful APIs using Node.js and Express.js, following industry standards to ensure efficient and secure communication between the front-end and the back-end.
-- Managed relational databases using SQL and PostgreSQL, designing, maintaining, and optimizing them for efficient data storage, retrieval, and manipulation.
-- Extracted actionable insights from extensive datasets using strong data analysis skills. Drove informed business decisions that enhanced and optimized the educational platform.
-- Actively monitored security protocols and integrated cutting-edge technologies to fortify the portal against potential vulnerabilities. Regularly updated the application with emerging technologies and industry best practices to ensure a contemporary and user-centric experience.
+Taught full stack web development covering front-end, back- end, testing and deployment. Built interfaces using CSS frameworks like Tailwind, bootstrap. Created reusable, scalable, and maintainable
+code.
+Implemented RESTful APIs following industry standards to
+ensure efficient and secure communication between the
+front-end and the back-end. Conducted comprehensive unit testing using Jest and React
+Testing Library. Code reviews, offering valuable feedback to team members, promoting code quality, and maintaining code consistency.
 
 ## Education
 - PGDCA - Post Graduate Diploma in Computer Application, IGNOU, Delhi (2022 - 2023) - 66.80%
